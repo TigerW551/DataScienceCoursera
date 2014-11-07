@@ -1,4 +1,4 @@
 DataScienceCoursera
 ===================
 
-stuff for coursera Data Science specialization from Johns Hopkins
+For coursera Data Science specialization from Johns Hopkins
